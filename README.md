@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Mejía</h1>
 <h3 align="center">A Full-Stack Software Engineer from Perú</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteomejia" alt="matteomejia" /></a> </p>
-
 - 🔭 I’m currently working on **software engineering**
 
 - 🌱 I’m currently learning **Go and Flutter**
