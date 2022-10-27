@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **fmejiaantezano@gmail.com**
 
-- 📄 Know about my experiences [TBA](TBA)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/francisco-mej%c3%ada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-mej%c3%ada" height="30" width="40" /></a>
