@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **software engineering**
 
-- 🌱 I’m currently learning **Go and Flutter**
+- 🌱 I’m currently learning **Go and Next-Gen Databases like SurrealDB**
 
 - 👯 I’m looking to collaborate on **edtech**
 
