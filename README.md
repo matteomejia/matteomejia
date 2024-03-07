@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on **software engineering**
 
-- 🌱 I’m currently learning **Go and Next-Gen Databases like SurrealDB**
-
-- 👯 I’m looking to collaborate on **edtech**
-
-- 👨‍💻 All of my projects are available at [TBA](TBA)
-
 - 💬 Ask me about **Web apps, cloud infrastructure, entrepreneurship**
 
 - 📫 How to reach me **fmejiaantezano@gmail.com**
